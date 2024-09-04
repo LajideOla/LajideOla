@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=LajideOla&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hi there 👋
 ![image](https://github.com/user-attachments/assets/ad4d0b47-f2af-4a74-8606-7b20f4c2cffe)
 
@@ -42,6 +43,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=LajideOla&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LajideOla&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
