@@ -1,10 +1,11 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/ad4d0b47-f2af-4a74-8606-7b20f4c2cffe)
 
 
 <!--
 **LajideOla/LajideOla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About me
-![image](https://github.com/user-attachments/assets/a037399f-6438-4d95-9999-52a60fea962d)
+
 
 Here are some ideas to get you started:
 
